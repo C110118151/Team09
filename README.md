@@ -11,7 +11,7 @@ C110118151
 ![NKUST](logo.png '高科大')
 
 - [ ] 男生
-- [ ] 女生
+- [x] 女生
 ```python
 s = "Python HighLight Syntax"
 prinr(s)
