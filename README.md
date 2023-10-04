@@ -1,3 +1,6 @@
+# 表格
+![team](team.png 'team')
+
 # PERT圖
 ![PERT_team](PERT_team.png 'PERT_team')
 
@@ -34,3 +37,5 @@ gantt
     section 14
     成果發表     :a14, after a13 ,2d
 ```
+# 關鍵路徑
+
