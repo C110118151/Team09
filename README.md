@@ -1,12 +1,12 @@
 # PERT圖
-
+![PERT_team](PERT_team.png 'PERT_team')
 
 # 甘特圖
 ```mermaid
 gantt
     title 研究流程
     section 1
-    組員分組     :a1, 2023-08-01, 1d
+    組員分組     :a1, 2023-10-01, 1d
     section 2
     組內討論     :a2, after a1  , 7d
     section 3
