@@ -1,14 +1,14 @@
 # 功能的需求
 ----
-出門時可以開啟discord bot 進行偵測
-discord bot 提醒使用者有人進入了感測器範圍
-關閉discord bot
+- 出門時可以開啟discord bot 進行偵測
+- discord bot 提醒使用者有人進入了感測器範圍
+- 關閉discord bot
 ----
 # 非功能需求
 ----
-5秒收集一次室內訊息
-透過口頭說明就可以馬上了解如何使用
-Code 裡的functions以功能直接命名
+- 5秒收集一次室內訊息
+- 透過口頭說明就可以馬上了解如何使用
+- Code 裡的functions以功能直接命名
 ----
 # 功能分解圖
 ![team](功能分解圖.jpg 'team')
@@ -27,5 +27,5 @@ Code 裡的functions以功能直接命名
 ----
 # Figma
 ----
-
+![team](系通分析.png 'team')
 ----
