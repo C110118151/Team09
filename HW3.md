@@ -27,5 +27,5 @@
 ----
 # Figma
 ----
-![team](系通分析.png 'team')
+![team](Figma.png 'team')
 ----
