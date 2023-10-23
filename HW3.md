@@ -11,7 +11,7 @@
 - Code 裡的functions以功能直接命名
 ----
 # 功能分解圖
-![team](功能分解圖.jpg 'team')
+![team](hw3-1.jpg 'team')
 ----
 # 需求分析的文字描述
 ----
@@ -23,10 +23,10 @@
 ----
 # 使用案例圖
 ----
-![team](use_case.jpg 'team')
-![team](使用者案例說明.png 'team')
+![team](hw3-2.jpg 'team')
+![team](hw3-3.png 'team')
 ----
 # Figma
 ----
-![team](Figma.png 'team')
+![team](hw3-4.png 'team')
 ----
