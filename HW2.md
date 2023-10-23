@@ -1,8 +1,8 @@
 # 表格
-![team](team.png 'team')
+![team](hw2-1.png 'team')
 
 # PERT圖
-![PERT_team](PERT_team.png 'PERT_team')
+![PERT_team](hw2-2.png 'PERT_team')
 
 # 甘特圖
 ```mermaid
