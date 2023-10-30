@@ -9,9 +9,6 @@
 ----
 # 活動圖
 ----
-### 感測器活動圖
-![team](hw5-3.png 'team')
-### discord bot活動圖
-![team](hw5-4.png 'team')
-### 使用者活動圖
-![team](hw5-5.png 'team')
+![team](hw5-2.jpg 'team')
+![team](hw5-3.jpg 'team')
+![team](hw5-4.jpg 'team')
