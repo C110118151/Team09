@@ -5,9 +5,9 @@
 ----
 # 循序圖
 ----
-![team](5-5.jpg 'team')
-![team](5-6.jpg 'team')
-![team](5-7.jpg 'team')
+![team](hw5-5.jpg 'team')
+![team](hw5-6.jpg 'team')
+![team](hw5-7.jpg 'team')
 
 # 活動圖
 ----
