@@ -9,7 +9,7 @@
 gantt
     title 研究流程
     section 1
-    組員分組     :a1, 2024-05-02, 1d
+    組員分組     :a1, 2021-08-23, 1d
     section 2
     組內討論     :a2, after a1  , 7d
     section 3
@@ -43,8 +43,8 @@ gantt
 gantt
     title 甘特圖示例
 
-    section 軟體檢測
-    軟體檢測 :a1, 2024-05-02, 1d
+    section 網頁檢測
+    網頁檢測 :a1, 2021-08-23, 1d
 
     section 登錄申請案件基本資料
     登錄申請案件基本資料 :a2, after a1, 1d
